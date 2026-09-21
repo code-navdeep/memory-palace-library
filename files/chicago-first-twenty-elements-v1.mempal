@@ -1,0 +1,537 @@
+{
+  "format" : 2,
+  "exportedAt" : "2026-09-20T00:00:00Z",
+  "originID" : "C1C10000-0000-4000-8000-000000000000",
+  "contents" : "full",
+  "palace" : {
+    "id" : "C1C10000-0000-4000-8000-000000000000",
+    "name" : "Chicago Riverwalk",
+    "glyph" : "sparkles",
+    "createdAt" : "2026-09-20T00:00:00Z",
+    "updatedAt" : "2026-09-20T00:00:00Z"
+  },
+  "routePreferences" : [],
+  "images" : [],
+  "pins" : [
+    {
+      "id" : "C1C10001-0000-4000-8000-000000000001",
+      "title" : "Lake Street Bridge",
+      "orderIndex" : 0,
+      "glyph" : "flame.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.885731,
+        "longitude" : -87.637721,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Lake Street Bridge",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "James Bond (01)",
+        "action" : "filling an airship with hydrogen until it bursts into flame",
+        "object" : "a burning silver airship",
+        "notes" : "Element 1, Hydrogen (H). James Bond fills a silver airship with hydrogen on the Lake Street Bridge, and it rises off the river and bursts into flame like the Hindenburg."
+      }
+    },
+    {
+      "id" : "C1C10002-0000-4000-8000-000000000002",
+      "title" : "333 West Wacker Drive",
+      "orderIndex" : 1,
+      "glyph" : "music.note",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.886123,
+        "longitude" : -87.636480,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "333 West Wacker Drive",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "Apollo (sun god) (02)",
+        "action" : "letting helium balloons go, then gulping one and squeaking",
+        "object" : "a bunch of helium balloons",
+        "notes" : "Element 2, Helium (He). Apollo the sun god, whose Sun is where helium was first found, lets a bunch of helium balloons drift up the curved green glass of 333 West Wacker Drive, then gulps one and squeaks."
+      }
+    },
+    {
+      "id" : "C1C10003-0000-4000-8000-000000000003",
+      "title" : "Wolf Point",
+      "orderIndex" : 2,
+      "glyph" : "bolt.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.887943,
+        "longitude" : -87.637677,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Wolf Point",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "a sumo wrestler (03)",
+        "action" : "stamping the ring to charge a giant battery",
+        "object" : "a lithium battery as big as a truck",
+        "notes" : "Element 3, Lithium (Li). A sumo wrestler stamps the ring at Wolf Point, where the river's three branches meet, and every stamp charges a giant lithium battery until the towers behind him light up."
+      }
+    },
+    {
+      "id" : "C1C10004-0000-4000-8000-000000000004",
+      "title" : "Franklin–Orleans Street Bridge",
+      "orderIndex" : 3,
+      "glyph" : "star.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.887461,
+        "longitude" : -87.635890,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Franklin–Orleans Street Bridge",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "Priyanka Chopra (in a sari) (04)",
+        "action" : "unrolling an emerald-studded sari across the bridge",
+        "object" : "a heap of emeralds",
+        "notes" : "Element 4, Beryllium (Be). Priyanka Chopra unrolls a sari sewn with emeralds, the green gem of the mineral beryl, across the Franklin–Orleans Street Bridge, and it trails into the river like a green train."
+      }
+    },
+    {
+      "id" : "C1C10005-0000-4000-8000-000000000005",
+      "title" : "Merchandise Mart",
+      "orderIndex" : 4,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.886949,
+        "longitude" : -87.634940,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Merchandise Mart",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "Popeye the Sailor (05)",
+        "action" : "scrubbing the Mart's river front with borax",
+        "object" : "a giant box of borax",
+        "notes" : "Element 5, Boron (B). Popeye tips a giant box of borax into a bucket and scrubs the whole river front of the Merchandise Mart, once the largest building in the world, until it gleams."
+      }
+    },
+    {
+      "id" : "C1C10006-0000-4000-8000-000000000006",
+      "title" : "Wells Street Bridge",
+      "orderIndex" : 5,
+      "glyph" : "bolt.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.887528,
+        "longitude" : -87.633990,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Wells Street Bridge",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "Miss America (06)",
+        "action" : "stacking graphite blocks into a reactor pile",
+        "object" : "a black block of graphite",
+        "notes" : "Element 6, Carbon (C). Under the 'L' tracks of the Wells Street Bridge, Miss America stacks black graphite blocks into a pile like Chicago Pile-1, the graphite reactor that went critical in this city in 1942."
+      }
+    },
+    {
+      "id" : "C1C10007-0000-4000-8000-000000000007",
+      "title" : "LaSalle Street Bridge",
+      "orderIndex" : 6,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.887494,
+        "longitude" : -87.632512,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "LaSalle Street Bridge",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "Santa Claus (07)",
+        "action" : "pouring liquid nitrogen that freezes the river solid",
+        "object" : "a smoking flask of liquid nitrogen",
+        "notes" : "Element 7, Nitrogen (N). Santa Claus pours a smoking flask of liquid nitrogen off the LaSalle Street Bridge and the river freezes solid below it so his reindeer can skate."
+      }
+    },
+    {
+      "id" : "C1C10008-0000-4000-8000-000000000008",
+      "title" : "Reid Murdoch Building",
+      "orderIndex" : 7,
+      "glyph" : "person.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.886945,
+        "longitude" : -87.631800,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Reid Murdoch Building",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "a bank robber (08)",
+        "action" : "climbing the clock tower gulping from an oxygen tank",
+        "object" : "an oxygen mask",
+        "notes" : "Element 8, Oxygen (O). A bank robber in an oxygen mask scales the Reid Murdoch Building's clock tower, gulping from the tank on his back as if the air had run out."
+      }
+    },
+    {
+      "id" : "C1C10009-0000-4000-8000-000000000009",
+      "title" : "Clark Street Bridge",
+      "orderIndex" : 8,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.887473,
+        "longitude" : -87.631032,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Clark Street Bridge",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "Tyler Durden (Fight Club) (09)",
+        "action" : "brushing his teeth with fluoride toothpaste",
+        "object" : "a tube of fluoride toothpaste",
+        "notes" : "Element 9, Fluorine (F). Tyler Durden squeezes a tube of fluoride toothpaste the whole length of the Clark Street Bridge and scrubs his teeth until they shine."
+      }
+    },
+    {
+      "id" : "C1C1000A-0000-4000-8000-00000000000A",
+      "title" : "Dearborn Street Bridge",
+      "orderIndex" : 9,
+      "glyph" : "star.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.887488,
+        "longitude" : -87.629536,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Dearborn Street Bridge",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "a ballerina (10)",
+        "action" : "pirouetting in a tutu of glowing neon tubes",
+        "object" : "a red-orange neon sign",
+        "notes" : "Element 10, Neon (Ne). A ballerina pirouettes on the Dearborn Street Bridge in a tutu of glowing neon tubes that lights the river red-orange."
+      }
+    },
+    {
+      "id" : "C1C1000B-0000-4000-8000-00000000000B",
+      "title" : "Marina City",
+      "orderIndex" : 10,
+      "glyph" : "crown.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.886947,
+        "longitude" : -87.628800,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Marina City",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "Poseidon (11)",
+        "action" : "salting the two corncob towers",
+        "object" : "a salt shaker the size of a boat",
+        "notes" : "Element 11, Sodium (Na). Poseidon rises from the river beside Marina City and shakes salt over its two corncob towers as if they were corn on the cob."
+      }
+    },
+    {
+      "id" : "C1C1000C-0000-4000-8000-00000000000C",
+      "title" : "State Street Bridge",
+      "orderIndex" : 11,
+      "glyph" : "flame.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.887541,
+        "longitude" : -87.628108,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "State Street Bridge",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "the Tin Man (Wizard of Oz) (12)",
+        "action" : "lighting a flare that burns dazzling white",
+        "object" : "a magnesium flare",
+        "notes" : "Element 12, Magnesium (Mg). The Tin Man lights a magnesium flare on the State Street Bridge and it burns so brilliantly white that his tin body flashes like an old camera."
+      }
+    },
+    {
+      "id" : "C1C1000D-0000-4000-8000-00000000000D",
+      "title" : "AMA Plaza",
+      "orderIndex" : 12,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.886947,
+        "longitude" : -87.627400,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "AMA Plaza",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "a gravedigger (13)",
+        "action" : "wrapping the tower in kitchen foil",
+        "object" : "a roll of aluminum foil",
+        "notes" : "Element 13, Aluminum (Al). A gravedigger wraps the whole of AMA Plaza, Mies van der Rohe's dark tower framed in anodized aluminum, in shiny kitchen foil."
+      }
+    },
+    {
+      "id" : "C1C1000E-0000-4000-8000-00000000000E",
+      "title" : "Wabash Avenue Bridge",
+      "orderIndex" : 13,
+      "glyph" : "brain.head.profile",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.887917,
+        "longitude" : -87.626817,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Wabash Avenue Bridge",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "a Formula 1 pit-crew mechanic (14)",
+        "action" : "bolting silicon chips onto the bridge",
+        "object" : "a glittering silicon chip",
+        "notes" : "Element 14, Silicon (Si). A Formula 1 pit-crew mechanic bolts glittering silicon chips all over the Wabash Avenue Bridge until it hums like a circuit board."
+      }
+    },
+    {
+      "id" : "C1C1000F-0000-4000-8000-00000000000F",
+      "title" : "Wrigley Building",
+      "orderIndex" : 14,
+      "glyph" : "flame.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.888314,
+        "longitude" : -87.625296,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Wrigley Building",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "Arthur Dent (Hitchhiker's Guide) (15)",
+        "action" : "striking a match on the white terra-cotta",
+        "object" : "a building glowing in the dark",
+        "notes" : "Element 15, Phosphorus (P). Arthur Dent strikes a match on the Wrigley Building's white terra-cotta and the whole building glows in the dark, as phosphorus, the light-bearer, does."
+      }
+    },
+    {
+      "id" : "C1C10010-0000-4000-8000-000000000010",
+      "title" : "DuSable Bridge",
+      "orderIndex" : 15,
+      "glyph" : "bolt.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.888831,
+        "longitude" : -87.624319,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "DuSable Bridge",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "a sad circus clown (16)",
+        "action" : "setting off a rotten-egg stink bomb",
+        "object" : "a lump of yellow brimstone",
+        "notes" : "Element 16, Sulfur (S). A sad circus clown sets off a yellow stink bomb on the DuSable Bridge, and the stench of rotten eggs rises with the bridge as it opens."
+      }
+    },
+    {
+      "id" : "C1C10011-0000-4000-8000-000000000011",
+      "title" : "Tribune Tower",
+      "orderIndex" : 16,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.890400,
+        "longitude" : -87.624053,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Tribune Tower",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "a strict school teacher (17)",
+        "action" : "bleaching a stack of newspapers white",
+        "object" : "a bottle of bleach",
+        "notes" : "Element 17, Chlorine (Cl). A strict school teacher pours bleach over a stack of newspapers at the door of Tribune Tower until every headline is gone and the street smells like a swimming pool."
+      }
+    },
+    {
+      "id" : "C1C10012-0000-4000-8000-000000000012",
+      "title" : "Columbus Drive Bridge",
+      "orderIndex" : 17,
+      "glyph" : "person.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.888562,
+        "longitude" : -87.620484,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Columbus Drive Bridge",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "Homer Simpson (18)",
+        "action" : "lying idle, refusing to react to anything",
+        "object" : "a giant light bulb",
+        "notes" : "Element 18, Argon (Ar). Homer Simpson, as idle as argon, whose name is Greek for lazy, lies inside a giant light bulb in the middle of the Columbus Drive Bridge and refuses to react even when the bridge opens beneath him."
+      }
+    },
+    {
+      "id" : "C1C10013-0000-4000-8000-000000000013",
+      "title" : "Centennial Fountain",
+      "orderIndex" : 18,
+      "glyph" : "bolt.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.888886,
+        "longitude" : -87.617863,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Centennial Fountain",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "MacGyver (19)",
+        "action" : "tossing a lump of potassium into the fountain",
+        "object" : "a lilac fireball",
+        "notes" : "Element 19, Potassium (K). MacGyver tosses a lump of potassium into Centennial Fountain's arc of water over the river and it bursts into lilac flame."
+      }
+    },
+    {
+      "id" : "C1C10014-0000-4000-8000-000000000014",
+      "title" : "Outer Drive Bridge",
+      "orderIndex" : 19,
+      "glyph" : "crown.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 41.888427,
+        "longitude" : -87.613988,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Outer Drive Bridge",
+        "address" : "Chicago, IL"
+      },
+      "pao" : {
+        "person" : "Pinocchio (20)",
+        "action" : "drinking milk until his wooden legs turn to bone",
+        "object" : "a bottle of milk",
+        "notes" : "Element 20, Calcium (Ca). At the Outer Drive Bridge, where the river meets Lake Michigan, Pinocchio drains a bottle of milk and his wooden legs turn into real bone."
+      }
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "format" : 2,
+  "exportedAt" : "2026-09-20T00:00:00Z",
+  "originID" : "A5A50000-0000-4000-8000-000000000000",
+  "contents" : "full",
+  "palace" : {
+    "id" : "A5A50000-0000-4000-8000-000000000000",
+    "name" : "Austin Congress Avenue",
+    "glyph" : "star.fill",
+    "createdAt" : "2026-09-20T00:00:00Z",
+    "updatedAt" : "2026-09-20T00:00:00Z"
+  },
+  "routePreferences" : [],
+  "images" : [],
+  "pins" : [
+    {
+      "id" : "A5A50001-0000-4000-8000-000000000001",
+      "title" : "Allens Boots",
+      "orderIndex" : 0,
+      "glyph" : "music.note",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 30.248216,
+        "longitude" : -97.750249,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Allens Boots",
+        "address" : "Austin, TX"
+      },
+      "pao" : {
+        "person" : "A cowboy preacher",
+        "action" : "preaching from inside the giant red boot over the door to a crowd assembled below",
+        "object" : "a newspaper in one hand and a petition in the other",
+        "notes" : "First Amendment: freedom of religion, of speech and of the press, and the right to assemble and to petition. A cowboy preacher climbs into the giant red boot over the Allens Boots door and preaches, sings and reads the newspaper aloud to a crowd assembled on the sidewalk, which passes him up a petition to sign."
+      }
+    },
+    {
+      "id" : "A5A50002-0000-4000-8000-000000000002",
+      "title" : "Continental Club",
+      "orderIndex" : 1,
+      "glyph" : "bolt.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 30.250556,
+        "longitude" : -97.749240,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Continental Club",
+        "address" : "Austin, TX"
+      },
+      "pao" : {
+        "person" : "A grizzly bear in a militia coat",
+        "action" : "working the door under the neon sign with a musket in each paw",
+        "object" : "two militia muskets",
+        "notes" : "Second Amendment: a well regulated militia, and the right of the people to keep and bear arms. A grizzly bear in a militia coat works the door under the Continental Club's neon sign with a musket in each paw: a bear, bearing arms."
+      }
+    },
+    {
+      "id" : "A5A50003-0000-4000-8000-000000000003",
+      "title" : "Austin Motel",
+      "orderIndex" : 2,
+      "glyph" : "key.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 30.251716,
+        "longitude" : -97.748944,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Austin Motel",
+        "address" : "Austin, TX"
+      },
+      "pao" : {
+        "person" : "A redcoat soldier",
+        "action" : "demanding a bed at the Austin Motel and being turned away by the owner",
+        "object" : "a NO VACANCY board hung under the neon sign",
+        "notes" : "Third Amendment: no soldier quartered in any house without the owner's consent. A redcoat marches up under the Austin Motel's 1938 neon sign and demands a bed for the night, and the owner hangs a NO VACANCY board beneath it: not without my consent."
+      }
+    },
+    {
+      "id" : "A5A50004-0000-4000-8000-000000000004",
+      "title" : "Ann W. Richards Congress Avenue Bridge",
+      "orderIndex" : 3,
+      "glyph" : "eye.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 30.261374,
+        "longitude" : -97.745222,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Ann W. Richards Congress Avenue Bridge",
+        "address" : "Austin, TX"
+      },
+      "pao" : {
+        "person" : "A county sheriff",
+        "action" : "holding up a warrant as the bats pour out to search the crowd on the bridge",
+        "object" : "a warrant naming the place and the things to be seized",
+        "notes" : "Fourth Amendment: no unreasonable searches and seizures, and no warrant without probable cause, sworn, naming the place and the things. At dusk the bats pour out from under the bridge and swoop through every pocket and handbag along the railing, seizing whatever they like, until the sheriff holds up a sworn warrant that names the place and the things: no warrant, no search."
+      }
+    },
+    {
+      "id" : "A5A50005-0000-4000-8000-000000000005",
+      "title" : "Frost Bank Tower",
+      "orderIndex" : 4,
+      "glyph" : "brain.head.profile",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 30.266572,
+        "longitude" : -97.743270,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Frost Bank Tower",
+        "address" : "Austin, TX"
+      },
+      "pao" : {
+        "person" : "A giant owl on top of Frost Bank Tower",
+        "action" : "answering every question in court with nothing but ‘Who?’",
+        "object" : "the bank's vault paying out just compensation",
+        "notes" : "Fifth Amendment: a grand jury for serious crimes, no double jeopardy, no one forced to testify against himself, due process of law, and just compensation for property taken. The owl face on top of Frost Bank Tower is hauled into court and answers every question with nothing but ‘Who?’, pleading the Fifth, while the bank below pays just compensation for everything the city takes."
+      }
+    },
+    {
+      "id" : "A5A50006-0000-4000-8000-000000000006",
+      "title" : "The Driskill",
+      "orderIndex" : 5,
+      "glyph" : "flame.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 30.267849,
+        "longitude" : -97.741839,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "The Driskill",
+        "address" : "Austin, TX"
+      },
+      "pao" : {
+        "person" : "A circuit judge",
+        "action" : "racing a whole trial against a stopwatch on the Driskill's Sixth Street doorstep",
+        "object" : "a stopwatch and a gavel, with the Sixth Street crowd looking on",
+        "notes" : "Sixth Amendment: a speedy and public trial by an impartial jury, told the charge, facing the witnesses, with a lawyer for the defence. A circuit judge sets up court on the Driskill's Sixth Street doorstep beneath Jesse Driskill's stone bust and races the whole trial against a stopwatch while the Sixth Street crowd looks on: speedy, and public."
+      }
+    },
+    {
+      "id" : "A5A50007-0000-4000-8000-000000000007",
+      "title" : "Littlefield Building",
+      "orderIndex" : 6,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 30.268239,
+        "longitude" : -97.742646,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Littlefield Building",
+        "address" : "Austin, TX"
+      },
+      "pao" : {
+        "person" : "Major George Littlefield, cattleman and banker",
+        "action" : "slapping a twenty-dollar bill on his bank's counter and calling in a jury",
+        "object" : "a twenty-dollar bill",
+        "notes" : "Seventh Amendment: a jury trial in civil suits worth more than twenty dollars. Major George Littlefield, the cattleman who built this building for his bank, slaps a twenty-dollar bill on the counter at the corner of Sixth and Congress, and twelve cowboys file in as the jury to decide whose it is."
+      }
+    },
+    {
+      "id" : "A5A50008-0000-4000-8000-000000000008",
+      "title" : "Paramount Theatre",
+      "orderIndex" : 7,
+      "glyph" : "star.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 30.269469,
+        "longitude" : -97.742187,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Paramount Theatre",
+        "address" : "Austin, TX"
+      },
+      "pao" : {
+        "person" : "Harry Houdini",
+        "action" : "bursting out of chains on the Paramount stage",
+        "object" : "a million-dollar bail bond torn in half",
+        "notes" : "Eighth Amendment: no excessive bail, no excessive fines, no cruel and unusual punishments. Harry Houdini, who played eight shows here in 1916 when it was the Majestic, bursts out of his chains on stage, tears a million-dollar bail bond in half and tosses the fine back at the judge: nothing cruel or unusual can hold him."
+      }
+    },
+    {
+      "id" : "A5A50009-0000-4000-8000-000000000009",
+      "title" : "Old Bakery and Emporium",
+      "orderIndex" : 8,
+      "glyph" : "heart.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 30.272116,
+        "longitude" : -97.741413,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Old Bakery and Emporium",
+        "address" : "Austin, TX"
+      },
+      "pao" : {
+        "person" : "Charles Lundberg, the baker",
+        "action" : "counting twelve loaves onto the counter, then pushing a thirteenth across to the people",
+        "object" : "a baker's dozen",
+        "notes" : "Ninth Amendment: listing some rights does not deny the others the people keep. Charles Lundberg, who built this bakery in 1876, counts twelve loaves onto the counter as the rights written down, then pushes a thirteenth across to the people under the cast-iron eagle on his roof: a baker's dozen, the rights no list can take away."
+      }
+    },
+    {
+      "id" : "A5A5000A-0000-4000-8000-00000000000A",
+      "title" : "Texas State Capitol",
+      "orderIndex" : 9,
+      "glyph" : "crown.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 30.272793,
+        "longitude" : -97.741064,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Texas State Capitol",
+        "address" : "Austin, TX"
+      },
+      "pao" : {
+        "person" : "The Goddess of Liberty on top of the dome",
+        "action" : "catching every power Washington never claimed and sharing them out",
+        "object" : "a bundle of leftover powers tossed down the Great Walk",
+        "notes" : "Tenth Amendment: powers not delegated to the United States, nor prohibited to the States, are reserved to the States, or to the people. The Goddess of Liberty on top of the Capitol dome catches every power Washington never claimed, keeps a share for the State of Texas and throws the rest down the Great Walk to the people."
+      }
+    }
+  ]
+}

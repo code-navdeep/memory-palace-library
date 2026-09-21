@@ -1,0 +1,641 @@
+{
+  "format" : 2,
+  "exportedAt" : "2026-09-20T00:00:00Z",
+  "originID" : "7A7A0000-0000-4000-8000-000000000000",
+  "contents" : "full",
+  "palace" : {
+    "id" : "7A7A0000-0000-4000-8000-000000000000",
+    "name" : "Stanley Park Seawall",
+    "glyph" : "flag.fill",
+    "createdAt" : "2026-09-20T00:00:00Z",
+    "updatedAt" : "2026-09-20T00:00:00Z"
+  },
+  "routePreferences" : [],
+  "images" : [],
+  "pins" : [
+    {
+      "id" : "7A7A0001-0000-4000-8000-000000000001",
+      "title" : "Lord Stanley Statue",
+      "orderIndex" : 0,
+      "glyph" : "bolt.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.296939,
+        "longitude" : -123.135210,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Lord Stanley Statue",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "James Bond (01)",
+        "action" : "hammering the last spike of Macdonald's railway into the plinth",
+        "object" : "an iron railway spike",
+        "notes" : "1st prime minister, John A. Macdonald (1867–1873, 1878–1891). James Bond kneels in his tuxedo at the foot of the Lord Stanley statue and hammers the last iron spike of Macdonald's Canadian Pacific Railway into the plinth, while Lord Stanley spreads his bronze arms over the finished line."
+      }
+    },
+    {
+      "id" : "7A7A0002-0000-4000-8000-000000000002",
+      "title" : "Robert Burns Statue",
+      "orderIndex" : 1,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.297038,
+        "longitude" : -123.134581,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Robert Burns Statue",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "Apollo (sun god) (02)",
+        "action" : "chiselling a new stone pedestal for Robert Burns",
+        "object" : "a stonemason's mallet and chisel",
+        "notes" : "2nd prime minister, Alexander Mackenzie (1873–1878). Apollo, glowing like the sun, kneels at the Robert Burns statue with a stonemason's mallet and chisel and cuts the Scottish poet a new stone pedestal, the trade the Scots-born Mackenzie worked at before politics."
+      }
+    },
+    {
+      "id" : "7A7A0003-0000-4000-8000-000000000003",
+      "title" : "Vancouver Rowing Club",
+      "orderIndex" : 2,
+      "glyph" : "figure.walk",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.297003,
+        "longitude" : -123.134378,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Vancouver Rowing Club",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "a sumo wrestler (03)",
+        "action" : "rowing a racing shell up to the Rowing Club float",
+        "object" : "an abbot's brown hooded habit",
+        "notes" : "3rd prime minister, John Abbott (1891–1892). A sumo wrestler in an abbot's brown hooded habit rows a racing shell up to the Vancouver Rowing Club's float, grunting “I hate politics” with every stroke."
+      }
+    },
+    {
+      "id" : "7A7A0004-0000-4000-8000-000000000004",
+      "title" : "Queen Victoria Memorial",
+      "orderIndex" : 3,
+      "glyph" : "heart.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.297165,
+        "longitude" : -123.133968,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Queen Victoria Memorial",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "Priyanka Chopra (in a sari) (04)",
+        "action" : "kneeling to be sworn in by Queen Victoria, then keeling over at lunch",
+        "object" : "a plate of Thompson seedless grapes",
+        "notes" : "4th prime minister, John Thompson (1892–1894). Priyanka Chopra, in a silk sari, kneels at the Queen Victoria Memorial to be sworn in by the Queen, sits down to lunch on a plate of Thompson seedless grapes, and keels over at the Queen's feet."
+      }
+    },
+    {
+      "id" : "7A7A0005-0000-4000-8000-000000000005",
+      "title" : "Royal Vancouver Yacht Club",
+      "orderIndex" : 4,
+      "glyph" : "flame.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.296481,
+        "longitude" : -123.127725,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Royal Vancouver Yacht Club",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "Popeye the Sailor (05)",
+        "action" : "standing at the bow as seven of his crew jump overboard",
+        "object" : "a nest of traitors",
+        "notes" : "5th prime minister, Mackenzie Bowell (1894–1896). Popeye stands at the bow of a sloop off the Royal Vancouver Yacht Club while seven of his crew leap overboard, and shakes a bird's nest after them, roaring that they are a nest of traitors."
+      }
+    },
+    {
+      "id" : "7A7A0006-0000-4000-8000-000000000006",
+      "title" : "Brockton Oval",
+      "orderIndex" : 5,
+      "glyph" : "bolt.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.298058,
+        "longitude" : -123.125136,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Brockton Oval",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "Miss America (06)",
+        "action" : "bowled out by the first ball on Brockton Oval",
+        "object" : "an unopened Tupperware lunchbox",
+        "notes" : "6th prime minister, Charles Tupper (1896). Miss America walks out to bat on Brockton Oval, is bowled out by the very first ball, and walks straight off again with her Tupperware lunchbox still unopened."
+      }
+    },
+    {
+      "id" : "7A7A0007-0000-4000-8000-000000000007",
+      "title" : "HMCS Discovery",
+      "orderIndex" : 6,
+      "glyph" : "star.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.297855,
+        "longitude" : -123.123512,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "HMCS Discovery",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "Santa Claus (07)",
+        "action" : "launching Canada's first warships from the HMCS Discovery gate",
+        "object" : "a sack of five-dollar bills",
+        "notes" : "7th prime minister, Wilfrid Laurier (1896–1911). Santa Claus stands at the HMCS Discovery gate launching the first warships of Canada's brand-new navy off the Deadman's Island causeway, paying each sailor from a sack of five-dollar bills with Laurier's face on them."
+      }
+    },
+    {
+      "id" : "7A7A0008-0000-4000-8000-000000000008",
+      "title" : "Brockton Point Totem Poles",
+      "orderIndex" : 7,
+      "glyph" : "key.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.299317,
+        "longitude" : -123.120315,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Brockton Point Totem Poles",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "a bank robber (08)",
+        "action" : "counting hundred-dollar bills behind the totem poles",
+        "object" : "a First World War tin helmet",
+        "notes" : "8th prime minister, Robert Borden (1911–1920). A bank robber in a First World War tin helmet crouches behind the Brockton Point totem poles counting a stolen stack of hundred-dollar bills, Borden's face on every one."
+      }
+    },
+    {
+      "id" : "7A7A0009-0000-4000-8000-000000000009",
+      "title" : "Shore to Shore",
+      "orderIndex" : 8,
+      "glyph" : "music.note",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.298926,
+        "longitude" : -123.120197,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Shore to Shore",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "Tyler Durden (Fight Club) (09)",
+        "action" : "bellowing “Ready, aye, ready!” twice",
+        "object" : "a Union Jack",
+        "notes" : "9th prime minister, Arthur Meighen (1920–1921, 1926). Tyler Durden plants his feet on the engraved stones around the Shore to Shore bronze, waves a Union Jack toward the harbour and bellows “Ready, aye, ready!” twice, once for each of his two short terms."
+      }
+    },
+    {
+      "id" : "7A7A000A-0000-4000-8000-00000000000A",
+      "title" : "Hallelujah Point",
+      "orderIndex" : 9,
+      "glyph" : "brain.head.profile",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.298416,
+        "longitude" : -123.119745,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Hallelujah Point",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "a ballerina (10)",
+        "action" : "holding a candlelit séance for her dead mother",
+        "object" : "a crystal ball",
+        "notes" : "10th prime minister, William Lyon Mackenzie King (1921–1926, 1926–1930, 1935–1948). A ballerina holds a candlelit séance on Hallelujah Point, and when King's dead mother answers out of a crystal ball, a whole Salvation Army revival meeting shouts hallelujah."
+      }
+    },
+    {
+      "id" : "7A7A000B-0000-4000-8000-00000000000B",
+      "title" : "Harry Jerome Statue",
+      "orderIndex" : 10,
+      "glyph" : "figure.walk",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.298312,
+        "longitude" : -123.119066,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Harry Jerome Statue",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "Poseidon (11)",
+        "action" : "racing a horse-drawn car against Harry Jerome",
+        "object" : "a Bennett buggy",
+        "notes" : "11th prime minister, R. B. Bennett (1930–1935). Poseidon whips a Bennett buggy, a Depression car with the engine ripped out and a horse between the shafts, in a race against the bronze sprinter Harry Jerome, and loses."
+      }
+    },
+    {
+      "id" : "7A7A000C-0000-4000-8000-00000000000C",
+      "title" : "Nine O'Clock Gun",
+      "orderIndex" : 11,
+      "glyph" : "flame.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.298278,
+        "longitude" : -123.117746,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Nine O'Clock Gun",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "the Tin Man (Wizard of Oz) (12)",
+        "action" : "firing the Nine O'Clock Gun to welcome Newfoundland",
+        "object" : "a saint's halo",
+        "notes" : "12th prime minister, Louis St. Laurent (1948–1957). The Tin Man, a saint's halo on his tin head, fires the Nine O'Clock Gun in salute as the island of Newfoundland sails into the harbour to become the tenth province."
+      }
+    },
+    {
+      "id" : "7A7A000D-0000-4000-8000-00000000000D",
+      "title" : "Brockton Point Lighthouse",
+      "orderIndex" : 12,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.300687,
+        "longitude" : -123.117085,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Brockton Point Lighthouse",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "a gravedigger (13)",
+        "action" : "burying a white jet at the lighthouse's foot",
+        "object" : "the Avro Arrow",
+        "notes" : "13th prime minister, John Diefenbaker (1957–1963). A gravedigger digs a long grave at the foot of the Brockton Point Lighthouse and buries the white delta-winged Avro Arrow in it while the lighthouse beam sweeps over the mound."
+      }
+    },
+    {
+      "id" : "7A7A000E-0000-4000-8000-00000000000E",
+      "title" : "Chehalis Cross",
+      "orderIndex" : 13,
+      "glyph" : "star.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.299952,
+        "longitude" : -123.117960,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Chehalis Cross",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "a Formula 1 pit-crew mechanic (14)",
+        "action" : "hoisting the first red Maple Leaf flag",
+        "object" : "a blue UN peacekeeper's helmet",
+        "notes" : "14th prime minister, Lester B. Pearson (1963–1968). A Formula 1 pit-crew mechanic sprints up to the Chehalis Cross, hoists the very first red Maple Leaf flag beside it, and sets a blue UN peacekeeper's helmet at its foot."
+      }
+    },
+    {
+      "id" : "7A7A000F-0000-4000-8000-00000000000F",
+      "title" : "Girl in a Wetsuit",
+      "orderIndex" : 14,
+      "glyph" : "person.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.302382,
+        "longitude" : -123.126296,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Girl in a Wetsuit",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "Arthur Dent (Hitchhiker's Guide) (15)",
+        "action" : "pirouetting behind the Girl in a Wetsuit",
+        "object" : "a red rose in his lapel",
+        "notes" : "15th prime minister, Pierre Trudeau (1968–1979, 1980–1984). Arthur Dent, in his dressing gown with a red rose in the lapel, wades out to the Girl in a Wetsuit's rock and does a cheeky pirouette behind her back."
+      }
+    },
+    {
+      "id" : "7A7A0010-0000-4000-8000-000000000010",
+      "title" : "Empress of Japan Figurehead",
+      "orderIndex" : 15,
+      "glyph" : "key.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.302484,
+        "longitude" : -123.126590,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Empress of Japan Figurehead",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "a sad circus clown (16)",
+        "action" : "digging through lost luggage on the dragon figurehead",
+        "object" : "a heap of lost suitcases",
+        "notes" : "16th prime minister, Joe Clark (1979–1980). A sad circus clown with a name tag reading “Joe Who?” clambers over the carved dragon of the Empress of Japan figurehead, digging through a heap of lost suitcases for his own luggage."
+      }
+    },
+    {
+      "id" : "7A7A0011-0000-4000-8000-000000000011",
+      "title" : "Vancouver Aquarium",
+      "orderIndex" : 16,
+      "glyph" : "bolt.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.299718,
+        "longitude" : -123.130229,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Vancouver Aquarium",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "a strict school teacher (17)",
+        "action" : "sprinting laps around the aquarium's bronze killer whale",
+        "object" : "a giant pancake turner",
+        "notes" : "17th prime minister, John Turner (1984). A strict school teacher in a UBC track vest sprints laps around Bill Reid's bronze killer whale at the Vancouver Aquarium, then flips the whale over with a giant pancake turner."
+      }
+    },
+    {
+      "id" : "7A7A0012-0000-4000-8000-000000000012",
+      "title" : "Lumberman's Arch",
+      "orderIndex" : 17,
+      "glyph" : "music.note",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.302786,
+        "longitude" : -123.130325,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Lumberman's Arch",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "Homer Simpson (18)",
+        "action" : "singing “When Irish Eyes Are Smiling” with Ronald Reagan",
+        "object" : "a FREE TRADE banner on the arch's great log",
+        "notes" : "18th prime minister, Brian Mulroney (1984–1993). Homer Simpson stands arm in arm with Ronald Reagan under Lumberman's Arch singing “When Irish Eyes Are Smiling”, while a banner reading FREE TRADE unrolls along the great log overhead."
+      }
+    },
+    {
+      "id" : "7A7A0013-0000-4000-8000-000000000013",
+      "title" : "Stanley Park Water Park",
+      "orderIndex" : 18,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.302867,
+        "longitude" : -123.130335,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Stanley Park Water Park",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "MacGyver (19)",
+        "action" : "duct-taping soup cans into a spray fountain",
+        "object" : "Campbell's soup cans, all but two blasted away",
+        "notes" : "19th prime minister, Kim Campbell (1993). MacGyver duct-tapes a tower of Campbell's soup cans into a spray fountain at the Stanley Park Water Park, and when the jets fire every can is blasted away except two."
+      }
+    },
+    {
+      "id" : "7A7A0014-0000-4000-8000-000000000014",
+      "title" : "Chaythoos",
+      "orderIndex" : 19,
+      "glyph" : "flame.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.309568,
+        "longitude" : -123.137033,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Chaythoos",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "Pinocchio (20)",
+        "action" : "peppering his plate on the high bank",
+        "object" : "a giant pepper shaker",
+        "notes" : "20th prime minister, Jean Chrétien (1993–2003). Pinocchio sits on a bench on the high bank at Chaythoos, shakes a giant pepper shaker over his plate and announces “For me, pepper, I put it on my plate.”"
+      }
+    },
+    {
+      "id" : "7A7A0015-0000-4000-8000-000000000015",
+      "title" : "Lions Gate Bridge",
+      "orderIndex" : 20,
+      "glyph" : "eye.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.311866,
+        "longitude" : -123.139958,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Lions Gate Bridge",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "a fisherman (21)",
+        "action" : "casting his net from a freighter under the bridge",
+        "object" : "a Canada Steamship Lines freighter",
+        "notes" : "21st prime minister, Paul Martin (2003–2006). A fisherman casts his net from the deck of a Canada Steamship Lines freighter as it slides under the Lions Gate Bridge, and hauls it back full of purple martins."
+      }
+    },
+    {
+      "id" : "7A7A0016-0000-4000-8000-000000000016",
+      "title" : "Prospect Point Lighthouse",
+      "orderIndex" : 21,
+      "glyph" : "music.note",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.313592,
+        "longitude" : -123.140341,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Prospect Point Lighthouse",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "Whoopi Goldberg (as a nun) (22)",
+        "action" : "singing “With a Little Help from My Friends”",
+        "object" : "a golden harp",
+        "notes" : "22nd prime minister, Stephen Harper (2006–2015). Whoopi Goldberg, in her nun's habit, sits on the rocks by the Prospect Point Lighthouse strumming a golden harp and singing “With a Little Help from My Friends” to the passing ships."
+      }
+    },
+    {
+      "id" : "7A7A0017-0000-4000-8000-000000000017",
+      "title" : "S.S. Beaver Cairn",
+      "orderIndex" : 22,
+      "glyph" : "bolt.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.312477,
+        "longitude" : -123.143258,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "S.S. Beaver Cairn",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "Taylor Swift (23)",
+        "action" : "winning a boxing match in the third round",
+        "object" : "loud novelty socks",
+        "notes" : "23rd prime minister, Justin Trudeau (2015–2025). Taylor Swift, in boxing gloves and loud novelty socks, climbs into a ring built on top of the S.S. Beaver cairn and stops her opponent in the third round."
+      }
+    },
+    {
+      "id" : "7A7A0018-0000-4000-8000-000000000018",
+      "title" : "Prospect Point",
+      "orderIndex" : 23,
+      "glyph" : "crown.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 49.312363,
+        "longitude" : -123.142976,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Prospect Point",
+        "address" : "Vancouver, BC"
+      },
+      "pao" : {
+        "person" : "Emperor Nero (24)",
+        "action" : "signing Canadian banknotes and flinging them off the lookout",
+        "object" : "a carny's straw boater",
+        "notes" : "24th prime minister, Mark Carney (2025–present). Emperor Nero, in a carny's straw boater, stands at the Prospect Point lookout signing a stack of Canadian banknotes, as Carney did when he governed the Bank of Canada, and flings them over the rail toward the Lions Gate Bridge."
+      }
+    }
+  ]
+}

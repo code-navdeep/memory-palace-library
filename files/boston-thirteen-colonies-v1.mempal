@@ -1,0 +1,355 @@
+{
+  "format" : 2,
+  "exportedAt" : "2026-09-20T00:00:00Z",
+  "originID" : "B0B00000-0000-4000-8000-000000000000",
+  "contents" : "full",
+  "palace" : {
+    "id" : "B0B00000-0000-4000-8000-000000000000",
+    "name" : "Boston Freedom Trail",
+    "glyph" : "flag.fill",
+    "createdAt" : "2026-09-20T00:00:00Z",
+    "updatedAt" : "2026-09-20T00:00:00Z"
+  },
+  "routePreferences" : [],
+  "images" : [],
+  "pins" : [
+    {
+      "id" : "B0B00001-0000-4000-8000-000000000001",
+      "title" : "Boston Common",
+      "orderIndex" : 0,
+      "glyph" : "brain.head.profile",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 42.355216,
+        "longitude" : -71.063384,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Boston Common",
+        "address" : "Boston, MA"
+      },
+      "pao" : {
+        "person" : "The Old Man of the Mountain",
+        "action" : "heaving his granite face up out of the Common's lawn",
+        "object" : "the town cows grazing on his stone brow",
+        "notes" : "New Hampshire. The Old Man of the Mountain, the granite face that is New Hampshire's emblem, heaves itself up out of Boston Common's lawn, and the town cows that grazed the Common until 1830 go on grazing along his stone brow."
+      }
+    },
+    {
+      "id" : "B0B00002-0000-4000-8000-000000000002",
+      "title" : "Massachusetts State House",
+      "orderIndex" : 1,
+      "glyph" : "star.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 42.357613,
+        "longitude" : -71.063722,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Massachusetts State House",
+        "address" : "Boston, MA"
+      },
+      "pao" : {
+        "person" : "A Pilgrim off the Mayflower",
+        "action" : "hauling the Sacred Cod up the steps and lashing it to the golden dome",
+        "object" : "a great wooden codfish",
+        "notes" : "Massachusetts. A Pilgrim straight off the Mayflower hauls the Sacred Cod, the carved wooden fish that hangs in the House chamber, up the State House steps and lashes it to the top of the golden dome: Massachusetts claiming its own house."
+      }
+    },
+    {
+      "id" : "B0B00003-0000-4000-8000-000000000003",
+      "title" : "Park Street Church",
+      "orderIndex" : 2,
+      "glyph" : "music.note",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 42.356767,
+        "longitude" : -71.062197,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Park Street Church",
+        "address" : "Boston, MA"
+      },
+      "pao" : {
+        "person" : "Roger Williams",
+        "action" : "preaching liberty of conscience from the steps of Brimstone Corner",
+        "object" : "a Rhode Island Red hen tucked under his arm",
+        "notes" : "Rhode Island. Roger Williams, banished from Massachusetts in 1635 for his preaching, stands on the steps below Park Street Church's steeple at Brimstone Corner and preaches freedom of conscience with a Rhode Island Red hen, his future colony's state bird, tucked under his arm."
+      }
+    },
+    {
+      "id" : "B0B00004-0000-4000-8000-000000000004",
+      "title" : "Granary Burying Ground",
+      "orderIndex" : 3,
+      "glyph" : "key.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 42.357113,
+        "longitude" : -71.061397,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Granary Burying Ground",
+        "address" : "Boston, MA"
+      },
+      "pao" : {
+        "person" : "Captain Joseph Wadsworth",
+        "action" : "stuffing a rolled charter into a hollow oak among the headstones",
+        "object" : "Connecticut's royal charter",
+        "notes" : "Connecticut. Captain Joseph Wadsworth runs in through the Egyptian gate with Connecticut's royal charter, snatched in the dark from under the royal governor's nose in 1687, and hides it in a hollow oak beside John Hancock's grave: the Charter Oak."
+      }
+    },
+    {
+      "id" : "B0B00005-0000-4000-8000-000000000005",
+      "title" : "King's Chapel",
+      "orderIndex" : 4,
+      "glyph" : "flame.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 42.358078,
+        "longitude" : -71.060354,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "King's Chapel",
+        "address" : "Boston, MA"
+      },
+      "pao" : {
+        "person" : "The Statue of Liberty",
+        "action" : "climbing onto the squat stone tower to stand in for its missing steeple",
+        "object" : "her torch raised where the spire should be",
+        "notes" : "New York. The Statue of Liberty wades up Tremont Street and climbs onto King's Chapel's squat stone tower, which never got the steeple it was built for, and stands there as its spire with her torch held high."
+      }
+    },
+    {
+      "id" : "B0B00006-0000-4000-8000-000000000006",
+      "title" : "Benjamin Franklin Statue",
+      "orderIndex" : 5,
+      "glyph" : "person.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 42.357806,
+        "longitude" : -71.059623,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Benjamin Franklin Statue",
+        "address" : "Boston, MA"
+      },
+      "pao" : {
+        "person" : "Benjamin Franklin",
+        "action" : "stepping down off his pedestal to pull on a brand-new jersey",
+        "object" : "a new jersey stitched with his son's name",
+        "notes" : "New Jersey. The bronze Benjamin Franklin steps down off his pedestal outside Old City Hall and pulls a brand-new jersey on over his coat, stitched with the name of his son William, the last royal governor of New Jersey."
+      }
+    },
+    {
+      "id" : "B0B00007-0000-4000-8000-000000000007",
+      "title" : "Old Corner Bookstore",
+      "orderIndex" : 6,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 42.357524,
+        "longitude" : -71.058293,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Old Corner Bookstore",
+        "address" : "Boston, MA"
+      },
+      "pao" : {
+        "person" : "William Penn in his broad Quaker hat",
+        "action" : "signing books in the bay window with a quill that sprouts into a forest",
+        "object" : "a pen in full leaf",
+        "notes" : "Pennsylvania, Penn's Woods. William Penn in his broad Quaker hat sits in the Old Corner Bookstore's bay window signing books, and his quill pen sprouts leaves and branches until the whole shop is a forest: Penn plus sylvania, the woods."
+      }
+    },
+    {
+      "id" : "B0B00008-0000-4000-8000-000000000008",
+      "title" : "Old South Meeting House",
+      "orderIndex" : 7,
+      "glyph" : "figure.walk",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 42.357099,
+        "longitude" : -71.058591,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Old South Meeting House",
+        "address" : "Boston, MA"
+      },
+      "pao" : {
+        "person" : "George Washington",
+        "action" : "standing in a rowing boat, crossing a river of tea that pours out of the meeting-house doors",
+        "object" : "tea chests bobbing round the boat",
+        "notes" : "Delaware. George Washington stands in the prow of a rowing boat and crosses the Delaware, but the river is tea, pouring out of the doors of the Old South Meeting House where the Tea Party began, with the smashed tea chests bobbing round his boat."
+      }
+    },
+    {
+      "id" : "B0B00009-0000-4000-8000-000000000009",
+      "title" : "Old State House",
+      "orderIndex" : 8,
+      "glyph" : "crown.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 42.358730,
+        "longitude" : -71.057785,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Old State House",
+        "address" : "Boston, MA"
+      },
+      "pao" : {
+        "person" : "Queen Henrietta Maria",
+        "action" : "landing on the west gable astride the gilded eagle",
+        "object" : "a basket of Chesapeake blue crabs",
+        "notes" : "Maryland. Queen Henrietta Maria, for whom Maryland was named, lands on the Old State House's west gable astride its gilded eagle with a basket of Chesapeake blue crabs on her arm: Mary lands."
+      }
+    },
+    {
+      "id" : "B0B0000A-0000-4000-8000-00000000000A",
+      "title" : "Boston Massacre Site",
+      "orderIndex" : 9,
+      "glyph" : "heart.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 42.358830,
+        "longitude" : -71.057170,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Boston Massacre Site",
+        "address" : "Boston, MA"
+      },
+      "pao" : {
+        "person" : "Pocahontas",
+        "action" : "throwing herself across a fallen man as the muskets fire",
+        "object" : "the ring of cobblestones below the balcony",
+        "notes" : "Virginia. Pocahontas, daughter of the Powhatan chief of Virginia, throws herself across a fallen man inside the ring of cobblestones as the soldiers' muskets fire, as the old story says she once shielded John Smith, while the lion and the unicorn look down from the gable above."
+      }
+    },
+    {
+      "id" : "B0B0000B-0000-4000-8000-00000000000B",
+      "title" : "Faneuil Hall",
+      "orderIndex" : 10,
+      "glyph" : "bolt.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 42.360000,
+        "longitude" : -71.057023,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Faneuil Hall",
+        "address" : "Boston, MA"
+      },
+      "pao" : {
+        "person" : "The Wright brothers",
+        "action" : "launching their Flyer off the roof of Faneuil Hall",
+        "object" : "the gilded grasshopper weathervane flying alongside",
+        "notes" : "North Carolina, first in flight. The Wright brothers launch their Flyer off the roof of Faneuil Hall as they did from the dunes near Kitty Hawk, and the gilded grasshopper weathervane leaps off the cupola and flies beside them."
+      }
+    },
+    {
+      "id" : "B0B0000C-0000-4000-8000-00000000000C",
+      "title" : "Paul Revere House",
+      "orderIndex" : 11,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 42.363730,
+        "longitude" : -71.053575,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Paul Revere House",
+        "address" : "Boston, MA"
+      },
+      "pao" : {
+        "person" : "Paul Revere in his silversmith's apron",
+        "action" : "hammering a silver crescent moon onto a palmetto that has burst up through his roof",
+        "object" : "a palmetto tree and a crescent",
+        "notes" : "South Carolina. Paul Revere, in his silversmith's apron, hammers a silver crescent moon onto the trunk of a palmetto tree that has burst up through the roof of his timber house: the palmetto and crescent of South Carolina's flag."
+      }
+    },
+    {
+      "id" : "B0B0000D-0000-4000-8000-00000000000D",
+      "title" : "Old North Church",
+      "orderIndex" : 12,
+      "glyph" : "eye.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 42.366370,
+        "longitude" : -71.054704,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Old North Church",
+        "address" : "Boston, MA"
+      },
+      "pao" : {
+        "person" : "King George II",
+        "action" : "hanging two glowing peaches in the steeple window",
+        "object" : "two Georgia peaches lit like lanterns",
+        "notes" : "Georgia, the last of the thirteen, named for King George II. King George II climbs the Old North Church steeple and hangs two ripe Georgia peaches in the window, glowing like the two lanterns of 18 April 1775: two if by sea."
+      }
+    }
+  ]
+}

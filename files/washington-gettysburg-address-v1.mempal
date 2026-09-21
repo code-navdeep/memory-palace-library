@@ -1,0 +1,277 @@
+{
+  "format" : 2,
+  "exportedAt" : "2026-09-20T00:00:00Z",
+  "originID" : "DCDC0000-0000-4000-8000-000000000000",
+  "contents" : "full",
+  "palace" : {
+    "id" : "DCDC0000-0000-4000-8000-000000000000",
+    "name" : "Washington National Mall",
+    "glyph" : "building.columns.fill",
+    "createdAt" : "2026-09-20T00:00:00Z",
+    "updatedAt" : "2026-09-20T00:00:00Z"
+  },
+  "routePreferences" : [],
+  "images" : [],
+  "pins" : [
+    {
+      "id" : "DCDC0001-0000-4000-8000-000000000001",
+      "title" : "Lincoln Memorial",
+      "orderIndex" : 0,
+      "glyph" : "person.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 38.890244,
+        "longitude" : -77.049452,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Lincoln Memorial",
+        "address" : "Washington, DC"
+      },
+      "pao" : {
+        "person" : "The Founding Fathers in powdered wigs",
+        "action" : "carrying a newborn nation up the steps to the seated Lincoln",
+        "object" : "a cradle stamped 1776 and carved ‘all men are created equal’",
+        "notes" : "“Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.” The Founding Fathers in powdered wigs carry a newborn nation up the Memorial steps and lay it at the seated Lincoln's feet, in a cradle stamped 1776 and carved with the words all men are created equal, while the speech itself is cut into the wall of the south chamber beside them."
+      }
+    },
+    {
+      "id" : "DCDC0002-0000-4000-8000-000000000002",
+      "title" : "Vietnam Veterans Memorial",
+      "orderIndex" : 1,
+      "glyph" : "bolt.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 38.890739,
+        "longitude" : -77.048954,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Vietnam Veterans Memorial",
+        "address" : "Washington, DC"
+      },
+      "pao" : {
+        "person" : "A Union soldier and a Confederate soldier",
+        "action" : "hauling the Wall's two black wings apart at the hinge",
+        "object" : "a granite joint that strains but holds",
+        "notes" : "“Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure.” A Union soldier and a Confederate soldier each seize one black wing of the Wall and haul in opposite directions, testing whether the joint at its apex can hold, while the three bronze soldiers nearby watch to see if it endures."
+      }
+    },
+    {
+      "id" : "DCDC0003-0000-4000-8000-000000000003",
+      "title" : "World War II Memorial",
+      "orderIndex" : 2,
+      "glyph" : "flame.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 38.889444,
+        "longitude" : -77.039550,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "World War II Memorial",
+        "address" : "Washington, DC"
+      },
+      "pao" : {
+        "person" : "A crowd in stovepipe hats and bonnets",
+        "action" : "gathering on the memorial plaza as cannon smoke rolls between the pillars",
+        "object" : "cannon smoke drifting under the Atlantic and Pacific arches",
+        "notes" : "“We are met on a great battle-field of that war.” A crowd of 1863 townsfolk in stovepipe hats and bonnets meets on the memorial plaza while cannon smoke rolls between the fifty-six pillars and under the Atlantic and Pacific arches: a meeting on a battlefield."
+      }
+    },
+    {
+      "id" : "DCDC0004-0000-4000-8000-000000000004",
+      "title" : "Washington Monument",
+      "orderIndex" : 3,
+      "glyph" : "star.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 38.889444,
+        "longitude" : -77.032932,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Washington Monument",
+        "address" : "Washington, DC"
+      },
+      "pao" : {
+        "person" : "A gravedigger",
+        "action" : "roping off a slice of the Monument's lawn for the fallen",
+        "object" : "the Monument standing as their headstone",
+        "notes" : "“We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live.” A gravedigger ropes off one slice of the Monument's great lawn as a resting place for the soldiers who died so the nation could live, and the 555-foot obelisk becomes their headstone."
+      }
+    },
+    {
+      "id" : "DCDC0005-0000-4000-8000-000000000005",
+      "title" : "National Museum of African American History and Culture",
+      "orderIndex" : 4,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 38.890222,
+        "longitude" : -77.032797,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "National Museum of African American History and Culture",
+        "address" : "Washington, DC"
+      },
+      "pao" : {
+        "person" : "A Yoruba king",
+        "action" : "lowering the museum's bronze corona onto his head, where it fits exactly",
+        "object" : "a three-tiered bronze crown",
+        "notes" : "“It is altogether fitting and proper that we should do this.” A Yoruba king lifts the museum's three-tiered bronze corona, which was modelled on a Yoruba crown, and lowers it onto his head, where it fits exactly: altogether fitting, and proper."
+      }
+    },
+    {
+      "id" : "DCDC0006-0000-4000-8000-000000000006",
+      "title" : "National Museum of American History",
+      "orderIndex" : 5,
+      "glyph" : "brain.head.profile",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 38.890491,
+        "longitude" : -77.030000,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "National Museum of American History",
+        "address" : "Washington, DC"
+      },
+      "pao" : {
+        "person" : "A bishop in full robes",
+        "action" : "raising his hands three times to bless the ground and three times being turned back",
+        "object" : "the steel ribbon of Infinity looping above him",
+        "notes" : "“But, in a larger sense, we can not dedicate—we can not consecrate—we can not hallow—this ground.” A bishop at the museum's Mall entrance raises his hands three times, to dedicate, to consecrate, to hallow the ground, and three times his blessing is swallowed by the endless steel ribbon of the Infinity sculpture above him, something larger than any blessing of his."
+      }
+    },
+    {
+      "id" : "DCDC0007-0000-4000-8000-000000000007",
+      "title" : "National Museum of Natural History",
+      "orderIndex" : 6,
+      "glyph" : "heart.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 38.890547,
+        "longitude" : -77.025833,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "National Museum of Natural History",
+        "address" : "Washington, DC"
+      },
+      "pao" : {
+        "person" : "Soldiers living and dead, arm in arm",
+        "action" : "hanging a golden halo high above the museum's dome",
+        "object" : "a halo out of reach of any ladder",
+        "notes" : "“The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract.” Soldiers living and dead climb the museum's dome arm in arm and hang a golden halo above it, so high that no ladder in Washington can reach it to add a thing or take one away."
+      }
+    },
+    {
+      "id" : "DCDC0008-0000-4000-8000-000000000008",
+      "title" : "National Gallery of Art",
+      "orderIndex" : 7,
+      "glyph" : "eye.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 38.890603,
+        "longitude" : -77.020000,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "National Gallery of Art",
+        "address" : "Washington, DC"
+      },
+      "pao" : {
+        "person" : "A gallery guard",
+        "action" : "sweeping the speeches out of the doors while a vast canvas of the soldiers goes up behind him",
+        "object" : "a painting of what they did, which never fades",
+        "notes" : "“The world will little note, nor long remember what we say here, but it can never forget what they did here.” A guard at the top of the gallery's Mall steps sweeps the speakers' words out of the doors like litter, while behind him a vast canvas of the soldiers' charge is hung in the rotunda to stay there for ever."
+      }
+    },
+    {
+      "id" : "DCDC0009-0000-4000-8000-000000000009",
+      "title" : "Ulysses S. Grant Memorial",
+      "orderIndex" : 8,
+      "glyph" : "figure.walk",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 38.889789,
+        "longitude" : -77.015150,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Ulysses S. Grant Memorial",
+        "address" : "Washington, DC"
+      },
+      "pao" : {
+        "person" : "General Grant on his bronze horse",
+        "action" : "handing a sculptor's chisel down to the living",
+        "object" : "a half-finished bronze charge",
+        "notes" : "“It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.” Grant leans down from his bronze horse and hands a chisel to the living to finish the charge his soldiers began, as others finished this very memorial after its sculptor died, twenty years into the work and two weeks before it was dedicated."
+      }
+    },
+    {
+      "id" : "DCDC000A-0000-4000-8000-00000000000A",
+      "title" : "United States Capitol",
+      "orderIndex" : 9,
+      "glyph" : "crown.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 38.889790,
+        "longitude" : -77.012453,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "United States Capitol",
+        "address" : "Washington, DC"
+      },
+      "pao" : {
+        "person" : "The Statue of Freedom",
+        "action" : "rising onto the dome as the people pour up the steps beneath her",
+        "object" : "a government of the people, by the people, for the people",
+        "notes" : "“It is rather for us to be here dedicated to the great task remaining before us—that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion—that we here highly resolve that these dead shall not have died in vain—that this nation, under God, shall have a new birth of freedom—and that government of the people, by the people, for the people, shall not perish from the earth.” The bronze Statue of Freedom is hoisted onto the Capitol dome, a new birth of freedom, as she really was thirteen days after Lincoln spoke, while the people themselves stream up the steps beneath her to govern: of the people, by the people, for the people."
+      }
+    }
+  ]
+}

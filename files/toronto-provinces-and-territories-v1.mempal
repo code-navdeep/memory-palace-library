@@ -1,0 +1,355 @@
+{
+  "format" : 2,
+  "exportedAt" : "2026-09-20T00:00:00Z",
+  "originID" : "70700000-0000-4000-8000-000000000000",
+  "contents" : "full",
+  "palace" : {
+    "id" : "70700000-0000-4000-8000-000000000000",
+    "name" : "Old Town Toronto",
+    "glyph" : "map.fill",
+    "createdAt" : "2026-09-20T00:00:00Z",
+    "updatedAt" : "2026-09-20T00:00:00Z"
+  },
+  "routePreferences" : [],
+  "images" : [],
+  "pins" : [
+    {
+      "id" : "70700001-0000-4000-8000-000000000001",
+      "title" : "Distillery Historic District",
+      "orderIndex" : 0,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 43.650740,
+        "longitude" : -79.359754,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Distillery Historic District",
+        "address" : "Toronto, ON"
+      },
+      "pao" : {
+        "person" : "A white spirit bear",
+        "action" : "rolling a whisky barrel out of the Distillery gate",
+        "object" : "an oak barrel of spirits",
+        "notes" : "British Columbia, the spirit bear. A white Kermode spirit bear, British Columbia's official mammal, rolls an oak barrel of Gooderham & Worts spirits out through the Distillery's Trinity Street gate and onto Mill Street."
+      }
+    },
+    {
+      "id" : "70700002-0000-4000-8000-000000000002",
+      "title" : "Enoch Turner Schoolhouse",
+      "orderIndex" : 1,
+      "glyph" : "star.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 43.652994,
+        "longitude" : -79.361353,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Enoch Turner Schoolhouse",
+        "address" : "Toronto, ON"
+      },
+      "pao" : {
+        "person" : "An Albertosaurus",
+        "action" : "squeezing into a pupil's desk",
+        "object" : "a slate and chalk",
+        "notes" : "Alberta, the Albertosaurus. An Albertosaurus, the dinosaur named after Alberta, squeezes into a pupil's desk in the 1848 Enoch Turner Schoolhouse and scratches out its lessons on a slate with one tiny claw."
+      }
+    },
+    {
+      "id" : "70700003-0000-4000-8000-000000000003",
+      "title" : "Little Trinity Anglican Church",
+      "orderIndex" : 2,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 43.653362,
+        "longitude" : -79.362070,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Little Trinity Anglican Church",
+        "address" : "Toronto, ON"
+      },
+      "pao" : {
+        "person" : "A prairie wheat farmer",
+        "action" : "throwing open the church doors on a flood of grain",
+        "object" : "a golden flood of wheat",
+        "notes" : "Saskatchewan, wheat. A prairie wheat farmer throws open the doors of Little Trinity, Toronto's oldest surviving church, and a golden flood of wheat pours down the steps onto King Street East."
+      }
+    },
+    {
+      "id" : "70700004-0000-4000-8000-000000000004",
+      "title" : "Joey and Toby Tanenbaum Opera Centre",
+      "orderIndex" : 3,
+      "glyph" : "music.note",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 43.651122,
+        "longitude" : -79.364526,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Joey and Toby Tanenbaum Opera Centre",
+        "address" : "Toronto, ON"
+      },
+      "pao" : {
+        "person" : "A polar bear from Churchill",
+        "action" : "belting out an aria in the doorway",
+        "object" : "a horned opera helmet",
+        "notes" : "Manitoba, the polar bear. A polar bear from Churchill, the polar bear capital of the world, stands in the doorway of the Tanenbaum Opera Centre in a horned opera helmet and belts out an aria that rattles the windows along Front Street."
+      }
+    },
+    {
+      "id" : "70700005-0000-4000-8000-000000000005",
+      "title" : "Parliament Square Park",
+      "orderIndex" : 4,
+      "glyph" : "flame.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 43.650028,
+        "longitude" : -79.363437,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Parliament Square Park",
+        "address" : "Toronto, ON"
+      },
+      "pao" : {
+        "person" : "A Loyalist legislator in a powdered wig",
+        "action" : "fleeing the burning first parliament",
+        "object" : "a white trillium",
+        "notes" : "Ontario, the first parliament. A Loyalist legislator in a powdered wig flees past the provincial plaque in Parliament Square Park as American soldiers burn Upper Canada's first parliament buildings behind him, clutching a white trillium to his chest."
+      }
+    },
+    {
+      "id" : "70700006-0000-4000-8000-000000000006",
+      "title" : "Young People's Theatre",
+      "orderIndex" : 5,
+      "glyph" : "person.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 43.650115,
+        "longitude" : -79.368893,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Young People's Theatre",
+        "address" : "Toronto, ON"
+      },
+      "pao" : {
+        "person" : "Bonhomme Carnaval",
+        "action" : "pelting a line of schoolchildren with snowballs",
+        "object" : "a red arrow sash",
+        "notes" : "Quebec, Bonhomme. Bonhomme Carnaval, the snowman of the Quebec Winter Carnival, bursts out of Young People's Theatre in his red tuque and arrow sash and pelts a line of schoolchildren on Front Street with snowballs."
+      }
+    },
+    {
+      "id" : "70700007-0000-4000-8000-000000000007",
+      "title" : "Toronto's First Post Office",
+      "orderIndex" : 6,
+      "glyph" : "key.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 43.651803,
+        "longitude" : -79.370332,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Toronto's First Post Office",
+        "address" : "Toronto, ON"
+      },
+      "pao" : {
+        "person" : "The giant Shediac lobster",
+        "action" : "writing a letter with a quill pen",
+        "object" : "a letter sealed with red wax",
+        "notes" : "New Brunswick, the lobster. The World's Largest Lobster crawls up from Shediac into Toronto's First Post Office, dips a quill pen in ink with one great claw, and posts a letter sealed with red wax."
+      }
+    },
+    {
+      "id" : "70700008-0000-4000-8000-000000000008",
+      "title" : "St. Lawrence Hall",
+      "orderIndex" : 7,
+      "glyph" : "music.note",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 43.650345,
+        "longitude" : -79.372265,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "St. Lawrence Hall",
+        "address" : "Toronto, ON"
+      },
+      "pao" : {
+        "person" : "A kilted piper",
+        "action" : "piping the Bluenose up King Street",
+        "object" : "the schooner Bluenose",
+        "notes" : "Nova Scotia, New Scotland. A kilted piper stands on the steps of St. Lawrence Hall and pipes the schooner Bluenose up King Street East under full sail until her mastheads scrape the Hall's cupola."
+      }
+    },
+    {
+      "id" : "70700009-0000-4000-8000-000000000009",
+      "title" : "Cathedral Church of St. James",
+      "orderIndex" : 8,
+      "glyph" : "figure.walk",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 43.650038,
+        "longitude" : -79.374014,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Cathedral Church of St. James",
+        "address" : "Toronto, ON"
+      },
+      "pao" : {
+        "person" : "Anne of Green Gables",
+        "action" : "climbing the cathedral spire",
+        "object" : "potatoes caked in red island soil",
+        "notes" : "Prince Edward Island, Anne of Green Gables. Anne Shirley, red braids flying, climbs to the top of the St. James spire and drops potatoes still caked in red island soil onto King Street East."
+      }
+    },
+    {
+      "id" : "7070000A-0000-4000-8000-00000000000A",
+      "title" : "Berczy Park",
+      "orderIndex" : 9,
+      "glyph" : "heart.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 43.647850,
+        "longitude" : -79.375053,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Berczy Park",
+        "address" : "Toronto, ON"
+      },
+      "pao" : {
+        "person" : "A great black Newfoundland dog",
+        "action" : "leaping into the dog fountain to make a rescue",
+        "object" : "a drenched fisherman",
+        "notes" : "Newfoundland and Labrador, the Newfoundland dog. A great black Newfoundland dog bounds into the Berczy Park fountain among its 27 cast-iron dogs and hauls a drenched fisherman out by the collar while the lone cast-iron cat looks on."
+      }
+    },
+    {
+      "id" : "7070000B-0000-4000-8000-00000000000B",
+      "title" : "Gooderham Building",
+      "orderIndex" : 10,
+      "glyph" : "star.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 43.648430,
+        "longitude" : -79.373825,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Gooderham Building",
+        "address" : "Toronto, ON"
+      },
+      "pao" : {
+        "person" : "A Klondike prospector",
+        "action" : "panning the gutter at the flatiron's prow",
+        "object" : "a gold nugget the size of a fist",
+        "notes" : "Yukon, the Klondike. A Klondike prospector squats at the narrow prow of the Gooderham Building panning the gutter, and yells “Gold!” as a nugget the size of his fist rolls out of the pan."
+      }
+    },
+    {
+      "id" : "7070000C-0000-4000-8000-00000000000C",
+      "title" : "St. Lawrence Market North",
+      "orderIndex" : 11,
+      "glyph" : "eye.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 43.649295,
+        "longitude" : -79.372005,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "St. Lawrence Market North",
+        "address" : "Toronto, ON"
+      },
+      "pao" : {
+        "person" : "An ice-road trucker",
+        "action" : "backing his rig into the market hall",
+        "object" : "a crate of rough diamonds",
+        "notes" : "Northwest Territories, diamonds and ice roads. An ice-road trucker backs his rig into the new St. Lawrence Market North and sells a crate of rough diamonds at the Saturday farmers' market while the northern lights ripple across the ceiling."
+      }
+    },
+    {
+      "id" : "7070000D-0000-4000-8000-00000000000D",
+      "title" : "St. Lawrence Market South",
+      "orderIndex" : 12,
+      "glyph" : "crown.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 43.649160,
+        "longitude" : -79.371836,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "St. Lawrence Market South",
+        "address" : "Toronto, ON"
+      },
+      "pao" : {
+        "person" : "An Inuk hunter",
+        "action" : "building an inuksuk on the market steps",
+        "object" : "a whole Arctic char",
+        "notes" : "Nunavut, the inuksuk. An Inuk hunter builds an inuksuk, the stone figure on Nunavut's flag, on the Front Street steps of St. Lawrence Market and lays a whole Arctic char on the first fishmonger's counter inside."
+      }
+    }
+  ]
+}

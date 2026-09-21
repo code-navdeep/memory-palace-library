@@ -1,0 +1,277 @@
+{
+  "format" : 2,
+  "exportedAt" : "2026-09-20T00:00:00Z",
+  "originID" : "CACA0000-0000-4000-8000-000000000000",
+  "contents" : "full",
+  "palace" : {
+    "id" : "CACA0000-0000-4000-8000-000000000000",
+    "name" : "Calgary Sandstone",
+    "glyph" : "mountain.2.fill",
+    "createdAt" : "2026-09-20T00:00:00Z",
+    "updatedAt" : "2026-09-20T00:00:00Z"
+  },
+  "routePreferences" : [],
+  "images" : [],
+  "pins" : [
+    {
+      "id" : "CACA0001-0000-4000-8000-000000000001",
+      "title" : "Historic City Hall",
+      "orderIndex" : 0,
+      "glyph" : "music.note",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 51.046111,
+        "longitude" : -114.058027,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Historic City Hall",
+        "address" : "Calgary, AB"
+      },
+      "pao" : {
+        "person" : "A long-winded councillor",
+        "action" : "talking non-stop beneath the clock tower",
+        "object" : "a cloud of talcum powder",
+        "notes" : "Talc, as in talcum powder, and talk. A long-winded councillor stands beneath the sandstone clock tower of Historic City Hall and talks so long that every word comes out as a puff of talcum powder."
+      }
+    },
+    {
+      "id" : "CACA0002-0000-4000-8000-000000000002",
+      "title" : "Burns Building",
+      "orderIndex" : 1,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 51.045278,
+        "longitude" : -114.058190,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Burns Building",
+        "address" : "Calgary, AB"
+      },
+      "pao" : {
+        "person" : "A sculptor",
+        "action" : "cracking open a plaster-of-Paris mould",
+        "object" : "a terracotta lion's head",
+        "notes" : "Gypsum, the mineral that makes plaster of Paris. A sculptor on the corner of the Burns Building cracks open a plaster-of-Paris mould and lifts out one more terracotta lion's head for its front."
+      }
+    },
+    {
+      "id" : "CACA0003-0000-4000-8000-000000000003",
+      "title" : "Calgary Public Building",
+      "orderIndex" : 2,
+      "glyph" : "key.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 51.045186,
+        "longitude" : -114.060556,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Calgary Public Building",
+        "address" : "Calgary, AB"
+      },
+      "pao" : {
+        "person" : "The postmaster",
+        "action" : "calculating postage against a limestone column",
+        "object" : "a great Ionic column of Tyndall limestone",
+        "notes" : "Calcite, the mineral of limestone, and calculate. The postmaster of the Calgary Public Building, built in 1931 as the city's main post office, calculates the postage on every parcel against one of its massive Ionic columns of Tyndall limestone."
+      }
+    },
+    {
+      "id" : "CACA0004-0000-4000-8000-000000000004",
+      "title" : "Imperial Bank of Canada",
+      "orderIndex" : 3,
+      "glyph" : "eye.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 51.045810,
+        "longitude" : -114.062963,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Imperial Bank of Canada",
+        "address" : "Calgary, AB"
+      },
+      "pao" : {
+        "person" : "A bank teller",
+        "action" : "holding banknotes under an ultraviolet lamp",
+        "object" : "a counter glowing blue",
+        "notes" : "Fluorite, the crystal that gave fluorescence its name. In the sandstone Imperial Bank of Canada, the first chartered bank to open in Calgary, a teller holds every banknote under an ultraviolet lamp until the whole counter glows blue."
+      }
+    },
+    {
+      "id" : "CACA0005-0000-4000-8000-000000000005",
+      "title" : "Alberta Hotel",
+      "orderIndex" : 4,
+      "glyph" : "flame.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 51.045339,
+        "longitude" : -114.065463,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Alberta Hotel",
+        "address" : "Calgary, AB"
+      },
+      "pao" : {
+        "person" : "A rancher",
+        "action" : "eating his way down the 125-foot bar",
+        "object" : "a platter of steaks",
+        "notes" : "Apatite, the mineral of teeth, and appetite. A rancher with a bottomless appetite chews his way down the Alberta Hotel's 125-foot bar, once the longest between Winnipeg and Vancouver."
+      }
+    },
+    {
+      "id" : "CACA0006-0000-4000-8000-000000000006",
+      "title" : "Hudson's Bay Company",
+      "orderIndex" : 5,
+      "glyph" : "bolt.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 51.046114,
+        "longitude" : -114.065528,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Hudson's Bay Company",
+        "address" : "Calgary, AB"
+      },
+      "pao" : {
+        "person" : "An orthodontist",
+        "action" : "fitting braces on the granite columns",
+        "object" : "a set of steel braces",
+        "notes" : "Orthoclase, the feldspar in granite, whose name means straight break. An orthodontist, who straightens things for a living, fits steel braces across the granite columns of the old Hudson's Bay store as if its colonnade were a row of teeth."
+      }
+    },
+    {
+      "id" : "CACA0007-0000-4000-8000-000000000007",
+      "title" : "Lougheed Building",
+      "orderIndex" : 6,
+      "glyph" : "brain.head.profile",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 51.047225,
+        "longitude" : -114.065322,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Lougheed Building",
+        "address" : "Calgary, AB"
+      },
+      "pao" : {
+        "person" : "A stage magician",
+        "action" : "gazing into a crystal ball at the Grand",
+        "object" : "a crystal ball of clear quartz",
+        "notes" : "Quartz, the clear crystal. On the stage of the Grand Theatre inside the 1912 Lougheed Building, once the biggest theatre in western Canada, a magician gazes into a crystal ball of clear quartz."
+      }
+    },
+    {
+      "id" : "CACA0008-0000-4000-8000-000000000008",
+      "title" : "Calgary Chinese Cultural Centre",
+      "orderIndex" : 7,
+      "glyph" : "star.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 51.051295,
+        "longitude" : -114.065146,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Calgary Chinese Cultural Centre",
+        "address" : "Calgary, AB"
+      },
+      "pao" : {
+        "person" : "A painted dragon",
+        "action" : "coiling up the blue-tiled dome",
+        "object" : "a golden topaz on the very top",
+        "notes" : "Topaz, the golden gem, on top. One of the 561 dragons painted inside the Cultural Centre, modelled on Beijing's Temple of Heaven, climbs out and coils up the blue-tiled dome to set a golden topaz on the very top."
+      }
+    },
+    {
+      "id" : "CACA0009-0000-4000-8000-000000000009",
+      "title" : "Eau Claire Plaza",
+      "orderIndex" : 8,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 51.052370,
+        "longitude" : -114.069325,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Eau Claire Plaza",
+        "address" : "Calgary, AB"
+      },
+      "pao" : {
+        "person" : "A gem-cutter from Jaipur",
+        "action" : "hanging rubies and sapphires from the Olympic Arch",
+        "object" : "strings of rubies and sapphires",
+        "notes" : "Corundum, the stone of rubies and sapphires. A gem-cutter from Jaipur, Calgary's sister city and a world centre of gem cutting, hangs strings of rubies and sapphires from the 1988 Olympic Arch in Eau Claire Plaza, at the foot of the Jaipur Bridge."
+      }
+    },
+    {
+      "id" : "CACA000A-0000-4000-8000-00000000000A",
+      "title" : "Prince's Island Park",
+      "orderIndex" : 9,
+      "glyph" : "crown.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 51.053702,
+        "longitude" : -114.067498,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Prince's Island Park",
+        "address" : "Calgary, AB"
+      },
+      "pao" : {
+        "person" : "A prince",
+        "action" : "kneeling on the island to propose",
+        "object" : "a diamond ring",
+        "notes" : "Diamond. A prince kneels on the grass of Prince's Island, named for the lumberman Peter Prince, and holds up a diamond that flashes brighter than the Bow River."
+      }
+    }
+  ]
+}

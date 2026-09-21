@@ -1,0 +1,641 @@
+{
+  "format" : 2,
+  "exportedAt" : "2026-09-20T00:00:00Z",
+  "originID" : "5F5F0000-0000-4000-8000-000000000000",
+  "contents" : "full",
+  "palace" : {
+    "id" : "5F5F0000-0000-4000-8000-000000000000",
+    "name" : "San Francisco Piers",
+    "glyph" : "tram.fill",
+    "createdAt" : "2026-09-20T00:00:00Z",
+    "updatedAt" : "2026-09-20T00:00:00Z"
+  },
+  "routePreferences" : [],
+  "images" : [],
+  "pins" : [
+    {
+      "id" : "5F5F0001-0000-4000-8000-000000000001",
+      "title" : "Ferry Building",
+      "orderIndex" : 0,
+      "glyph" : "crown.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.795296,
+        "longitude" : -122.393895,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Ferry Building",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "An alpha wolf",
+        "action" : "howling from the top of the clock tower",
+        "object" : "the tower's great clock",
+        "notes" : "Alpha (Α α), the leader of the pack. An alpha wolf climbs to the top of the Ferry Building's clock tower, where the pier numbers begin, and howls until the whole pack pours out through the arcade below."
+      }
+    },
+    {
+      "id" : "5F5F0002-0000-4000-8000-000000000002",
+      "title" : "Pier 1",
+      "orderIndex" : 1,
+      "glyph" : "eye.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.796845,
+        "longitude" : -122.395341,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 1",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "A harbourmaster",
+        "action" : "carrying a fishbowl into the Port's headquarters",
+        "object" : "a scarlet betta fish",
+        "notes" : "Beta (Β β), the betta fish. A harbourmaster carries a fishbowl in through the doors of Pier 1, the Port of San Francisco's headquarters, and the scarlet betta fish inside flares its fins at every ship on the bay."
+      }
+    },
+    {
+      "id" : "5F5F0003-0000-4000-8000-000000000003",
+      "title" : "Pier 1½",
+      "orderIndex" : 2,
+      "glyph" : "person.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.797218,
+        "longitude" : -122.395668,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 1½",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "A grandmother",
+        "action" : "knitting in the old passenger waiting room",
+        "object" : "a scarf one and a half metres long",
+        "notes" : "Gamma (Γ γ), grandma. A grandmother sits knitting in the old passenger waiting room of Pier 1½, and like the pier her scarf stops at exactly one and a half."
+      }
+    },
+    {
+      "id" : "5F5F0004-0000-4000-8000-000000000004",
+      "title" : "Pier 3",
+      "orderIndex" : 3,
+      "glyph" : "music.note",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.797511,
+        "longitude" : -122.395937,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 3",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "A ship's cook",
+        "action" : "clanging a dinner triangle on the old ferryboat",
+        "object" : "a steel triangle",
+        "notes" : "Delta (Δ δ), the triangle. A ship's cook clangs a steel dinner triangle on the deck of the 1927 ferryboat Santa Rosa, moored at Pier 3, and every dinner cruise at Hornblower Landing casts off at once."
+      }
+    },
+    {
+      "id" : "5F5F0005-0000-4000-8000-000000000005",
+      "title" : "Pier 5",
+      "orderIndex" : 4,
+      "glyph" : "figure.walk",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.798187,
+        "longitude" : -122.396547,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 5",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "A jockey in racing silks",
+        "action" : "galloping a Derby horse round the Port Walk",
+        "object" : "a finishing post marked EPSOM",
+        "notes" : "Epsilon (Ε ε), Epsom. A jockey in racing silks gallops a Derby horse all the way round the Port Walk at Pier 5 and flashes past a finishing post marked EPSOM."
+      }
+    },
+    {
+      "id" : "5F5F0006-0000-4000-8000-000000000006",
+      "title" : "Pier 7",
+      "orderIndex" : 5,
+      "glyph" : "bolt.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.798621,
+        "longitude" : -122.396946,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 7",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "Catherine Zeta-Jones",
+        "action" : "fencing down the length of Pier 7",
+        "object" : "a Z slashed into every lamp post",
+        "notes" : "Zeta (Ζ ζ), Zeta-Jones. Catherine Zeta-Jones, sword drawn as in The Mask of Zorro, fences the whole 840 feet of Pier 7 and slashes a Z into every lamp post she passes."
+      }
+    },
+    {
+      "id" : "5F5F0007-0000-4000-8000-000000000007",
+      "title" : "Pier 9",
+      "orderIndex" : 6,
+      "glyph" : "key.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.799960,
+        "longitude" : -122.398069,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 9",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "A bar pilot",
+        "action" : "hoisting flag H above Pier 9",
+        "object" : "the red-and-white H flag",
+        "notes" : "Eta (Η η), the letter shaped like H. A San Francisco bar pilot, whose station is at the end of Pier 9, runs up the red-and-white signal flag H, which means ‘I have a pilot on board’."
+      }
+    },
+    {
+      "id" : "5F5F0008-0000-4000-8000-000000000008",
+      "title" : "Pier 15",
+      "orderIndex" : 7,
+      "glyph" : "brain.head.profile",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.800775,
+        "longitude" : -122.398801,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 15",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "A teenage Exploratorium Explainer",
+        "action" : "measuring a swinging pendulum's angle",
+        "object" : "a giant brass protractor",
+        "notes" : "Theta (Θ θ), the angle. At the Exploratorium on Pier 15, a teenage Explainer swings a pendulum as tall as the pier's front and measures its angle, theta, with a giant brass protractor."
+      }
+    },
+    {
+      "id" : "5F5F0009-0000-4000-8000-000000000009",
+      "title" : "Pier 17",
+      "orderIndex" : 8,
+      "glyph" : "eye.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.801458,
+        "longitude" : -122.399412,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 17",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "A single droplet of fog",
+        "action" : "drifting off the Fog Bridge onto your fingertip",
+        "object" : "one iota of mist",
+        "notes" : "Iota (Ι ι), the smallest letter, as in not one iota. From the more than 800 nozzles of the Fog Bridge beside Pier 17, one single droplet drifts onto your fingertip, the tiniest thing on the whole waterfront."
+      }
+    },
+    {
+      "id" : "5F5F000A-0000-4000-8000-00000000000A",
+      "title" : "Pier 19",
+      "orderIndex" : 9,
+      "glyph" : "person.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.802248,
+        "longitude" : -122.400123,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 19",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "A kappa, the green water imp of Japan",
+        "action" : "bowing back at you in front of Pier 19",
+        "object" : "the dish of water on its head",
+        "notes" : "Kappa (Κ κ), the water imp. A green, beaked kappa climbs out of the bay at Pier 19 and, when you bow, bows back, spilling the dish of water on its head across the pavement."
+      }
+    },
+    {
+      "id" : "5F5F000B-0000-4000-8000-00000000000B",
+      "title" : "Pier 23",
+      "orderIndex" : 10,
+      "glyph" : "music.note",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.803138,
+        "longitude" : -122.400920,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 23",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "A lamb",
+        "action" : "bleating the blues on the Pier 23 Cafe stage",
+        "object" : "a microphone",
+        "notes" : "Lambda (Λ λ), the lamb. A lamb takes the stage at the Pier 23 Cafe, the old waterfront music house, and bleats the blues into the microphone."
+      }
+    },
+    {
+      "id" : "5F5F000C-0000-4000-8000-00000000000C",
+      "title" : "Pier 27",
+      "orderIndex" : 11,
+      "glyph" : "music.note",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.804557,
+        "longitude" : -122.402297,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 27",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "A cow in a captain's cap",
+        "action" : "sounding a cruise ship's horn at the terminal",
+        "object" : "a horn that moos",
+        "notes" : "Mu (Μ μ), moo. A cow in a captain's cap stands on the bridge of a cruise ship at the James R. Herman Cruise Terminal on Pier 27, and the ship's horn lets out one enormous moo."
+      }
+    },
+    {
+      "id" : "5F5F000D-0000-4000-8000-00000000000D",
+      "title" : "Pier 29",
+      "orderIndex" : 12,
+      "glyph" : "bolt.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.805149,
+        "longitude" : -122.403117,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 29",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "A gnu",
+        "action" : "charging out of Pier 29, rebuilt new",
+        "object" : "a brand-new timber truss",
+        "notes" : "Nu (Ν ν), the gnu, said new. A gnu charges out through Pier 29, rebuilt new after the fire of 2012, with a brand-new timber truss hooked on its horns."
+      }
+    },
+    {
+      "id" : "5F5F000E-0000-4000-8000-00000000000E",
+      "title" : "Pier 31",
+      "orderIndex" : 13,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.806257,
+        "longitude" : -122.404738,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 31",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "A taxi driver",
+        "action" : "driving ballot boxes out of Pier 31",
+        "object" : "a yellow taxi",
+        "notes" : "Xi (Ξ ξ), as in taxi. A yellow taxi rolls out of the wide bulkhead of Pier 31, where the city stores its election materials, piled to the roof with ballot boxes."
+      }
+    },
+    {
+      "id" : "5F5F000F-0000-4000-8000-00000000000F",
+      "title" : "Pier 33",
+      "orderIndex" : 14,
+      "glyph" : "figure.walk",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.806711,
+        "longitude" : -122.405590,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 33",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "An escaped convict",
+        "action" : "paddling away from Alcatraz Landing",
+        "object" : "a small orange life ring",
+        "notes" : "Omicron (Ο ο), the little o: its name means ‘small o’. A convict in prison stripes paddles away from Alcatraz Landing at Pier 33, sitting in a small orange life ring."
+      }
+    },
+    {
+      "id" : "5F5F0010-0000-4000-8000-000000000010",
+      "title" : "Pier 35",
+      "orderIndex" : 15,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.807027,
+        "longitude" : -122.406263,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 35",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "The Liberty ship's cook",
+        "action" : "carrying a pie down the gangway",
+        "object" : "a pie as wide as a hatch cover",
+        "notes" : "Pi (Π π), the pie. The cook of the SS Jeremiah O'Brien, the Second World War Liberty ship berthed at Pier 35, carries a pie as wide as a hatch cover down the gangway."
+      }
+    },
+    {
+      "id" : "5F5F0011-0000-4000-8000-000000000011",
+      "title" : "Pier 39",
+      "orderIndex" : 16,
+      "glyph" : "heart.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.808313,
+        "longitude" : -122.410436,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 39",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "A sea lion",
+        "action" : "rowing a dinghy through the marina",
+        "object" : "a pair of oars",
+        "notes" : "Rho (Ρ ρ), row. A sea lion flops off the docks at Pier 39 into a dinghy and rows it through the marina, barking at every stroke."
+      }
+    },
+    {
+      "id" : "5F5F0012-0000-4000-8000-000000000012",
+      "title" : "Pier 41",
+      "orderIndex" : 17,
+      "glyph" : "brain.head.profile",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.808579,
+        "longitude" : -122.412261,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 41",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "Sigmund Freud",
+        "action" : "setting his couch on the ferry dock",
+        "object" : "a psychoanalyst's couch",
+        "notes" : "Sigma (Σ σ), Sigmund. Sigmund Freud sets his couch on the dock at Pier 41 and asks each Blue & Gold ferry, as it comes in, how it feels about leaving."
+      }
+    },
+    {
+      "id" : "5F5F0013-0000-4000-8000-000000000013",
+      "title" : "Pier 43",
+      "orderIndex" : 18,
+      "glyph" : "star.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.808897,
+        "longitude" : -122.413398,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 43",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "Saint Francis of Assisi",
+        "action" : "raising a tau cross under the Ferry Arch",
+        "object" : "a T-shaped tau cross",
+        "notes" : "Tau (Τ τ), the T. Saint Francis of Assisi, who gave San Francisco its name and signed his letters with a tau, stands beneath the 1914 Pier 43 Ferry Arch and raises a great T-shaped cross."
+      }
+    },
+    {
+      "id" : "5F5F0014-0000-4000-8000-000000000014",
+      "title" : "Pier 43½",
+      "orderIndex" : 19,
+      "glyph" : "bolt.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.808930,
+        "longitude" : -122.414399,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 43½",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "A Red and White Fleet deckhand",
+        "action" : "slipping on the wet gangway",
+        "object" : "arms and legs flung up in a Y",
+        "notes" : "Upsilon (Υ υ), oops. A Red and White Fleet deckhand slips on the wet gangway at Pier 43½, shouts ‘Oops!’, and lands with arms and legs flung up in a Y."
+      }
+    },
+    {
+      "id" : "5F5F0015-0000-4000-8000-000000000015",
+      "title" : "Pier 45",
+      "orderIndex" : 20,
+      "glyph" : "key.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.809191,
+        "longitude" : -122.416100,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 45",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "Laffing Sal",
+        "action" : "cackling until you pay the fee",
+        "object" : "a coin going into its slot",
+        "notes" : "Phi (Φ φ), the fee. Laffing Sal, the six-foot laughing automaton at the Musée Mécanique on Pier 45, will not stop cackling until you pay the fee: a round coin pushed into a slot, a circle with a line through it, like Φ."
+      }
+    },
+    {
+      "id" : "5F5F0016-0000-4000-8000-000000000016",
+      "title" : "Pier 47",
+      "orderIndex" : 21,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.809037,
+        "longitude" : -122.418207,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 47",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "A fisherman",
+        "action" : "unloading at the fish-receiving station",
+        "object" : "a crab crossing its claws in an X",
+        "notes" : "Chi (Χ χ), the X. A fisherman unloading at the fish-receiving station beside Scoma's on Pier 47 holds up a crab that crosses its two claws into a perfect X."
+      }
+    },
+    {
+      "id" : "5F5F0017-0000-4000-8000-000000000017",
+      "title" : "Maritime Museum",
+      "orderIndex" : 22,
+      "glyph" : "star.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.806263,
+        "longitude" : -122.423901,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Maritime Museum",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "Poseidon, god of the sea",
+        "action" : "stepping out of the lobby's Atlantis mural",
+        "object" : "a three-pronged trident",
+        "notes" : "Psi (Ψ ψ), the trident. Poseidon steps out of the Atlantis mural in the lobby of the Maritime Museum, the ship-shaped Aquatic Park Bathhouse, and plants his three-pronged trident on Beach Street."
+      }
+    },
+    {
+      "id" : "5F5F0018-0000-4000-8000-000000000018",
+      "title" : "Municipal Pier",
+      "orderIndex" : 23,
+      "glyph" : "crown.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 37.808095,
+        "longitude" : -122.426613,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Municipal Pier",
+        "address" : "San Francisco, CA"
+      },
+      "pao" : {
+        "person" : "A giant blacksmith",
+        "action" : "bending the pier into its horseshoe curve",
+        "object" : "an iron horseshoe",
+        "notes" : "Omega (Ω ω), the great O, shaped like a horseshoe. A giant blacksmith has bent the Municipal Pier into its horseshoe curve around Aquatic Park, and hammers home the last nail to end the walk."
+      }
+    }
+  ]
+}

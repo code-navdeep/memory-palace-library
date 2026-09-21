@@ -1,0 +1,381 @@
+{
+  "format" : 2,
+  "exportedAt" : "2026-09-20T00:00:00Z",
+  "originID" : "4E4E0000-0000-4000-8000-000000000000",
+  "contents" : "full",
+  "palace" : {
+    "id" : "4E4E0000-0000-4000-8000-000000000000",
+    "name" : "Brooklyn Bridge Walk",
+    "glyph" : "building.columns.fill",
+    "createdAt" : "2026-09-20T00:00:00Z",
+    "updatedAt" : "2026-09-20T00:00:00Z"
+  },
+  "routePreferences" : [],
+  "images" : [],
+  "pins" : [
+    {
+      "id" : "4E4E0001-0000-4000-8000-000000000001",
+      "title" : "Woolworth Building",
+      "orderIndex" : 0,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 40.712404,
+        "longitude" : -74.007790,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Woolworth Building",
+        "address" : "New York, NY"
+      },
+      "pao" : {
+        "person" : "Frank W. Woolworth",
+        "action" : "weighing you against a jar of summer sunshine",
+        "object" : "a brass pair of shop scales",
+        "notes" : "“Shall I compare thee to a summer's day?” Under the Woolworth Building, Frank W. Woolworth, king of the five-and-dime, sets you on one pan of his brass shop scales and a jar of bottled summer sunshine on the other, and asks whether he should compare you."
+      }
+    },
+    {
+      "id" : "4E4E0002-0000-4000-8000-000000000002",
+      "title" : "Park Row Building",
+      "orderIndex" : 1,
+      "glyph" : "heart.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 40.711468,
+        "longitude" : -74.007929,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Park Row Building",
+        "address" : "New York, NY"
+      },
+      "pao" : {
+        "person" : "A sculpted woman from the facade",
+        "action" : "stepping down lovelier and calmer than summer",
+        "object" : "a thermometer stuck at a mild seventy degrees",
+        "notes" : "“Thou art more lovely and more temperate.” One of the sculpted women on the Park Row Building's fourth storey steps down to the pavement, lovelier than any summer's day, holding a thermometer that never moves off a mild seventy degrees."
+      }
+    },
+    {
+      "id" : "4E4E0003-0000-4000-8000-000000000003",
+      "title" : "Printing House Square",
+      "orderIndex" : 2,
+      "glyph" : "bolt.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 40.711936,
+        "longitude" : -74.005905,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Printing House Square",
+        "address" : "New York, NY"
+      },
+      "pao" : {
+        "person" : "Benjamin Franklin",
+        "action" : "flying his kite in a gale that shakes the May blossom",
+        "object" : "a kite on a hemp string",
+        "notes" : "“Rough winds do shake the darling buds of May,” At Printing House Square the bronze Benjamin Franklin tucks away his newspaper and flies his kite in a gale so rough that it shakes the buds off every May blossom in City Hall Park."
+      }
+    },
+    {
+      "id" : "4E4E0004-0000-4000-8000-000000000004",
+      "title" : "Tweed Courthouse",
+      "orderIndex" : 3,
+      "glyph" : "key.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 40.713705,
+        "longitude" : -74.005296,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Tweed Courthouse",
+        "address" : "New York, NY"
+      },
+      "pao" : {
+        "person" : "Boss Tweed",
+        "action" : "renting Summer the courthouse on a lease that ends tomorrow",
+        "object" : "a lease with an all too short date",
+        "notes" : "“And summer's lease hath all too short a date.” On the granite steps of the Tweed Courthouse, the building his ring looted, Boss Tweed rents the whole courthouse to Summer and hands her a lease that runs out tomorrow."
+      }
+    },
+    {
+      "id" : "4E4E0005-0000-4000-8000-000000000005",
+      "title" : "Surrogate's Courthouse",
+      "orderIndex" : 4,
+      "glyph" : "eye.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 40.713313,
+        "longitude" : -74.004452,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Surrogate's Courthouse",
+        "address" : "New York, NY"
+      },
+      "pao" : {
+        "person" : "The sun, one blazing eye",
+        "action" : "glaring down too hot on the courthouse",
+        "object" : "stone statues mopping their brows",
+        "notes" : "“Sometime too hot the eye of heaven shines,” The sun opens over the Surrogate's Courthouse as one enormous blazing eye and glares so hot that the stone New Yorkers standing along its sixth floor mop their brows."
+      }
+    },
+    {
+      "id" : "4E4E0006-0000-4000-8000-000000000006",
+      "title" : "David N. Dinkins Municipal Building",
+      "orderIndex" : 5,
+      "glyph" : "star.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 40.712668,
+        "longitude" : -74.004412,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "David N. Dinkins Municipal Building",
+        "address" : "New York, NY"
+      },
+      "pao" : {
+        "person" : "Civic Fame, the gilded statue on the roof",
+        "action" : "watching a thundercloud dull her gold face",
+        "object" : "a grey thundercloud",
+        "notes" : "“And often is his gold complexion dimmed;” On top of the David N. Dinkins Municipal Building, the gilded 25-foot Civic Fame watches a thundercloud settle over her face until her gold skin turns grey."
+      }
+    },
+    {
+      "id" : "4E4E0007-0000-4000-8000-000000000007",
+      "title" : "Brooklyn Bridge",
+      "orderIndex" : 6,
+      "glyph" : "figure.walk",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 40.704219,
+        "longitude" : -73.994624,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Brooklyn Bridge",
+        "address" : "Brooklyn, NY"
+      },
+      "pao" : {
+        "person" : "A beauty queen",
+        "action" : "sliding down the great cable from the tower",
+        "object" : "her crown, sash and roses falling away",
+        "notes" : "“And every fair from fair sometime declines,” A beauty queen slides down the great cable from the bridge's Brooklyn tower, losing her crown, her sash and her roses one by one on the way down."
+      }
+    },
+    {
+      "id" : "4E4E0008-0000-4000-8000-000000000008",
+      "title" : "Washington Street",
+      "orderIndex" : 7,
+      "glyph" : "cube.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 40.702862,
+        "longitude" : -73.989602,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Washington Street",
+        "address" : "Brooklyn, NY"
+      },
+      "pao" : {
+        "person" : "A ship's captain",
+        "action" : "tossing a coin as the wind swings and his sails flap untrimmed",
+        "object" : "a tall ship aground on the cobblestones",
+        "notes" : "“By chance or nature's changing course untrimmed.” A ship's captain tosses a coin for his heading, the wind swings round, his sails flap untrimmed, and his tall ship runs aground on the cobblestones of Washington Street with the Manhattan Bridge framed behind it."
+      }
+    },
+    {
+      "id" : "4E4E0009-0000-4000-8000-000000000009",
+      "title" : "Jane's Carousel",
+      "orderIndex" : 8,
+      "glyph" : "music.note",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 40.703853,
+        "longitude" : -73.990628,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Jane's Carousel",
+        "address" : "Brooklyn, NY"
+      },
+      "pao" : {
+        "person" : "A girl in a summer dress",
+        "action" : "riding round and round under glass, never growing older",
+        "object" : "a painted carousel horse from 1922",
+        "notes" : "“But thy eternal summer shall not fade” Inside the glass pavilion of Jane's Carousel, a girl in a summer dress rides a painted horse carved in 1922 round and round, sealed in a summer afternoon that never ends."
+      }
+    },
+    {
+      "id" : "4E4E000A-0000-4000-8000-00000000000A",
+      "title" : "Empire Stores",
+      "orderIndex" : 9,
+      "glyph" : "key.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 40.703288,
+        "longitude" : -73.991648,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Empire Stores",
+        "address" : "Brooklyn, NY"
+      },
+      "pao" : {
+        "person" : "A warehouseman",
+        "action" : "stamping your beauty as yours and bolting it inside",
+        "object" : "the only key",
+        "notes" : "“Nor lose possession of that fair thou ow'st,” A warehouseman at the Empire Stores, where coffee and sugar were once locked away, stamps your beauty 'PROPERTY OF' with your own name, bolts it behind the thick stone walls and hands you the only key."
+      }
+    },
+    {
+      "id" : "4E4E000B-0000-4000-8000-00000000000B",
+      "title" : "St. Ann's Warehouse",
+      "orderIndex" : 10,
+      "glyph" : "person.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 40.703327,
+        "longitude" : -73.992813,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "St. Ann's Warehouse",
+        "address" : "Brooklyn, NY"
+      },
+      "pao" : {
+        "person" : "Death, a ham actor",
+        "action" : "strutting on stage to brag that you walk in his shadow",
+        "object" : "a spotlight on his empty shadow",
+        "notes" : "“Nor shall Death brag thou wand'rest in his shade,” On the stage of St. Ann's Warehouse, in the shadow of the great bridge beside it, Death struts out to brag that you walk in his shade, and the spotlight shows his shadow empty."
+      }
+    },
+    {
+      "id" : "4E4E000C-0000-4000-8000-00000000000C",
+      "title" : "Eagle Warehouse",
+      "orderIndex" : 11,
+      "glyph" : "brain.head.profile",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 40.702550,
+        "longitude" : -73.993643,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Eagle Warehouse",
+        "address" : "Brooklyn, NY"
+      },
+      "pao" : {
+        "person" : "A typesetter from the old Brooklyn Eagle",
+        "action" : "setting lines of type that grow up the wall like ivy",
+        "object" : "the great clock window",
+        "notes" : "“When in eternal lines to time thou grow'st.” A typesetter from the old Brooklyn Eagle, whose pressroom lies inside the Eagle Warehouse, sets your name in lines of type that grow up the wall like ivy until they wrap around the great clock."
+      }
+    },
+    {
+      "id" : "4E4E000D-0000-4000-8000-00000000000D",
+      "title" : "Fulton Ferry Landing",
+      "orderIndex" : 12,
+      "glyph" : "eye.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 40.703178,
+        "longitude" : -73.994125,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Fulton Ferry Landing",
+        "address" : "Brooklyn, NY"
+      },
+      "pao" : {
+        "person" : "Walt Whitman",
+        "action" : "breathing the river air and gazing across at Manhattan",
+        "object" : "the railing cut with his lines",
+        "notes" : "“So long as men can breathe or eyes can see,” Walt Whitman leans on the railing of Fulton Ferry Landing, where lines of his “Crossing Brooklyn Ferry” are cut into the metal, filling his lungs with river air and gazing across at Manhattan, as he wrote that every generation after him would."
+      }
+    },
+    {
+      "id" : "4E4E000E-0000-4000-8000-00000000000E",
+      "title" : "Pier 1",
+      "orderIndex" : 13,
+      "glyph" : "crown.fill",
+      "cueText" : "",
+      "userImageFilename" : null,
+      "imageOverlayX" : 0.5,
+      "imageOverlayY" : 0.5,
+      "imageOverlayScale" : 0.34,
+      "location" : {
+        "source" : "apple-maps-look-around",
+        "latitude" : 40.702826,
+        "longitude" : -73.994814,
+        "placeID" : null,
+        "alternatePlaceIDs" : [],
+        "placeName" : "Pier 1",
+        "address" : "Brooklyn, NY"
+      },
+      "pao" : {
+        "person" : "A stonemason",
+        "action" : "carving this sonnet into the salvaged granite steps",
+        "object" : "your face rising alive out of the stone",
+        "notes" : "“So long lives this, and this gives life to thee.” On the Granite Prospect at Pier 1, steps built from granite salvaged from an old bridge, a stonemason carves this sonnet into the top step, and as he cuts the last word your own face rises out of the stone, alive, looking at the skyline."
+      }
+    }
+  ]
+}
